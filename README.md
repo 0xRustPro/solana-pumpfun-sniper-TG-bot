@@ -42,7 +42,7 @@ Then do auto-sell according to the marketcap of that token.
 1. Clone the repository from github
 
 ```sh
-git clone https://github.com/btcoin23/Sniper-Alpha.git
+git clone https://github.com/0xRustPro/solana-pumpfun-sniper-TG-bot.git
 ```
 
 2. Install dependencies
